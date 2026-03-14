@@ -4,6 +4,7 @@
 🧠 Python Developer • Generative Text • Experimental Literature<br>
 <a href="https://x.com/TheMassFactory">𝕏 @TheMassFactory</a>
 </p>
+
 ---
 
 ## 👋 About me
@@ -82,7 +83,7 @@ Experimental literature
 ## 📫 Contact
 
 📧 japocalips@gmail.com  
-🐙 https://github.com/JoeApocaLips
+🐙 https://github.com/JoeApocaLips  
 𝕏 https://x.com/TheMassFactory
 
 ---
