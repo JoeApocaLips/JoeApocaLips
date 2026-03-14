@@ -1,23 +1,28 @@
 <h1 align="center">Joe ApocaLips</h1>
 
 <p align="center">
-🧠 Python Developer • Generative Text • Experimental Literature<br>
-<a href="https://x.com/TheMassFactory">𝕏 @TheMassFactory</a>
+  <a href="https://x.com/TheMassFactory">
+    <img src="https://img.shields.io/badge/𝕏-%40TheMassFactory-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+
+<p align="center">
+🧠 Python • C++ • Pascal Developer • Generative Text • Experimental Literature
 </p>
 
 ---
 
 ## 👋 About me
 
-Python developer exploring **computer-generated literature** and **algorithmic poetry**.
+**C++/Pascal/Python developer** exploring **computer-generated texts** and **experimental poetry** for more than **30 years**.
 
-For more than **30 years**, I’ve been experimenting with programs that generate text, fragments and poetic structures.
+I’ve been experimenting with programs that generate text, fragments and poetic structures since the early days of personal computing.
 
 My work blends:
-
-- 🧠 algorithms  
-- 📚 literature  
-- ⚙️ procedural generation  
+- 🧠 algorithms
+- 📚 literature
+- ⚙️ procedural generation
+- ✂️ cut-up & glitch techniques
 
 ---
 
@@ -26,24 +31,15 @@ My work blends:
 ### 🌊 Tide-Mirror
 A procedural poetry engine exploring mirrored structures and rhythmic textual flows.
 
----
-
 ### 🕳 Void-Fragments
-A Beckettian text generator created for **NaNoGenMo 2025**.
-
-Inspired by Samuel Beckett's *Texts for Nothing*, this project generates fragmented existential prose.
-
----
+A Beckettian text generator created for **NaNoGenMo 2025**.  
+Inspired by Samuel Beckett's *Texts for Nothing*.
 
 ### 🌆 CyberPunk-Poetry-3.0
 A cyberpunk themed generative poetry system mixing dystopian imagery, AI fragments and synthetic narratives.
 
----
-
 ### 📚 NaNoGenMo/2025
-Participation in **NaNoGenMo** (National Novel Generation Month), focusing on algorithmic text generation and literary experimentation.
-
----
+Participation in **National Novel Generation Month**, focusing on algorithmic text generation and literary experimentation.
 
 ### 🧠 JoeApocaLips
 Core experiments and personal sandbox for generative text systems and literary algorithms.
@@ -51,22 +47,22 @@ Core experiments and personal sandbox for generative text systems and literary a
 ---
 
 ## ⚙️ Tech Stack
-Python
-Text generation
-Procedural generation
-Experimental literature
 
+- **C++**  
+- **Pascal**  
+- **Python**  
+- Text generation  
+- Procedural generation  
+- Experimental literature  
+- Glitch & cut-up techniques
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=JoeApocaLips&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeApocaLips&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -77,6 +73,7 @@ Experimental literature
 - algorithmic poetry
 - experimental writing
 - procedural storytelling
+- cut-up & digital fragmentation
 
 ---
 
