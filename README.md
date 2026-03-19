@@ -7,26 +7,32 @@
 </p>
 
 <p align="center">
-🧠 Python • C++ • Pascal Developer • Generative Text • Experimental Literature
+🧠 Python • C++ • Pascal Developer • Generative Text • Experimental Literature • AI Art
 </p>
 
 ---
 
 ## 👋 About me
 
-**C++/Pascal/Python developer** exploring **computer-generated texts** and **experimental poetry** for more than **30 years**.
+**C++/Pascal/Python developer** exploring **computer-generated texts**, **experimental poetry** and **AI-generated visual art** for more than **30 years**.
 
-I’ve been experimenting with programs that generate text, fragments and poetic structures since the early days of personal computing.
+I've been experimenting with programs that generate text, fragments and poetic structures since the early days of personal computing. Recently extended into AI image pipelines and book-making.
 
 My work blends:
 - 🧠 algorithms
 - 📚 literature
 - ⚙️ procedural generation
+- 🎨 AI image generation
 - ✂️ cut-up & glitch techniques
 
 ---
 
 ## 🧪 Featured Projects
+
+### 👅 The-Tongues-Book
+An automated pipeline generating **200 AI tongue photographs** with Boiffard-style captions, compiled as a KDP paperback.  
+A parody of Ansgar Allen's *The Tongue Machine* (Schism Press, 2026). Python · Grok (xAI) · XeLaTeX  
+→ [repo](https://github.com/JoeApocaLips/The-Tongues-Book) · [PDF preview](https://github.com/JoeApocaLips/The-Tongues-Book/releases/download/version1.0/tongues_book.pdf)
 
 ### 🌊 Tide-Mirror
 A procedural poetry engine exploring mirrored structures and rhythmic textual flows.
@@ -41,20 +47,15 @@ A cyberpunk themed generative poetry system mixing dystopian imagery, AI fragmen
 ### 📚 NaNoGenMo/2025
 Participation in **National Novel Generation Month**, focusing on algorithmic text generation and literary experimentation.
 
-### 🧠 JoeApocaLips
-Core experiments and personal sandbox for generative text systems and literary algorithms.
-
 ---
 
 ## ⚙️ Tech Stack
 
-- **C++**  
-- **Pascal**  
-- **Python**  
-- Text generation  
-- Procedural generation  
-- Experimental literature  
-- Glitch & cut-up techniques
+- **Python** · **C++** · **Pascal**
+- Text & image generation · Procedural generation
+- XeLaTeX · KDP publishing pipeline
+- Grok (xAI) · AI image & caption generation
+- Experimental literature · Glitch & cut-up techniques
 
 ---
 
@@ -69,11 +70,11 @@ Core experiments and personal sandbox for generative text systems and literary a
 
 ## 🧠 Interests
 
-- generative literature
-- algorithmic poetry
-- experimental writing
-- procedural storytelling
+- generative literature & algorithmic poetry
+- experimental writing & procedural storytelling
+- AI image pipelines & book-making
 - cut-up & digital fragmentation
+- Beckett · Michaux · Burroughs · Boiffard
 
 ---
 
